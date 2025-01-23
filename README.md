@@ -17,7 +17,7 @@ In **Boxing Game**, you’ll engage in a one-on-one boxing match against a virtu
   - **Hook**: Moderate damage, moderate accuracy.
   - **Uppercut**: High damage, low accuracy.
 - **Health System**: Track your health and your opponent’s to strategize your moves.
-- **Time Pressure**: Choose your action quickly before the timer runs out (feature in development).
+- **Time Pressure**: Choose your action quickly before the timer runs out (STILL NOT WORKING, IDK WHY).
 - **Victory Conditions**: Win by reducing your opponent's health to zero or draw if both fighters fall.
 
 ---
@@ -27,7 +27,7 @@ In **Boxing Game**, you’ll engage in a one-on-one boxing match against a virtu
    - `[1] New Game`: Start a new boxing match.
    - `[2] Exit`: Quit the game.
 2. Follow the in-game instructions to:
-   - Choose your action during your turn:
+   - Choose your action during your turn(YOU CAN ONLY ATTACK JUST LIKE A STREET BRAWL):
      - Jab, Hook, or Uppercut.
    - Counter the opponent’s moves in turn-based gameplay.
 3. The game ends when either the player or opponent’s health reaches zero.
